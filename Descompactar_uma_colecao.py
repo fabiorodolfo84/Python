@@ -2,7 +2,7 @@
 
 # Se voce tem uma colecao de valores em lista, tupla etc. python permite que voce extraia os valores em variaveis. isso é chamado de descompactação.
 
-fruits = ["maça", "banana", "cereja"]
+fruits = ["maças", "bananas", "cerejas"]
 x, y, z = fruits
 
 print(x)
